@@ -1,0 +1,4 @@
+Best practices for SQL are:
+
+1: SQL best practices for GROUP BY
+Order multiple groupings by descending cardinality
